@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:freezed/builder.dart';
 
 void main() {
   runApp(const MyApp());
